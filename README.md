@@ -1,2 +1,3 @@
-# moosehub
-The central hub for everything Moose. Built to guide the stream.
+# moose-site
+
+https://mooseisdead.github.io/moose-site/
